@@ -1,0 +1,9 @@
+jquery
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+$("#image").append(element)
+<script src="script.js"></script>
+$("#text").append("this is so freaking cool.");
+
+$(document).ready(function() {
+  // code to be executed goes here
+});
